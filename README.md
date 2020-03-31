@@ -1,3 +1,3 @@
 # Sample-Flutter-Project
 This is my first flutter project
-Priject files in the student section.
+Project files in the student section.
